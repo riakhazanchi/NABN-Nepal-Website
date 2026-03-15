@@ -1,6 +1,7 @@
 # NABN Nepal Website
 
-[![Website Demo](demo.mov)
+<video src="demo.mov" controls width="800"></video>
+
 Full-stack website developed for the National Adolescent Boys Network Nepal (NABN), a youth-focused NGO working to support adolescent boys through programs, advocacy, and community engagement. The platform centralizes organizational information and enables publishing of updates, media content, and program resources to improve outreach and visibility.
 
 Live site: https://nabnnepal.org/
